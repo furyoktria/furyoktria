@@ -8,6 +8,7 @@
 
 
 <h2>📺 YouTube Videos Lecture</h2>
+[![Love & Hate as a Product Manager: Navigating Emotions in Product Management by Apiary Academy](https://www.youtube.com/watch?v=NiMoybMhy6o&t=136s&ab "Improve Your Code with Ardalis.GuardClauses")
 
 [Love & Hate as a Product Manager: Navigating Emotions in Product Management by Apiary Academy](https://www.youtube.com/watch?v=NiMoybMhy6o&t=136s&ab_channel=ApiaryAcademy)
 
