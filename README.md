@@ -9,7 +9,7 @@
 
 <h2>📺 YouTube Videos Lecture</h2>
 
-[![Video](https://img.youtube.com/vi/NiMoybMhy6o/maxresdefault.jpg)](https://www.youtube.com/watch?v=NiMoybMhy6o)
+[![Video](https://img.youtube.com/vi/NiMoybMhy6o/hqdefault.jpg)](https://www.youtube.com/watch?v=NiMoybMhy6o)
 
 
 
