@@ -12,7 +12,7 @@ Seven years in payments, fintech and small-business products. Before my current 
       <a href="https://tarutha.co"><img src="assets/tarutha.png" alt="Tarutha landing page: Know what the number means before you act"></a>
       <p><a href="https://tarutha.co"><b>Tarutha</b></a><br>
       Indonesian capital-market data with the source beside every number: prices, filings, ownership, fund flows and news. One API, an MCP server for AI agents, and a web terminal for investment and risk teams.<br>
-      <sub>Rust · Python · Next.js · Founding members</sub></p>
+      <sub>Rust · Python · Next.js · <a href="https://github.com/furyoktria/tarutha-quickstart">Quickstart</a></sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://pixelandpromise.com"><img src="assets/pixel-and-promise.webp" alt="Pixel and Promise demo: opening Maya and Theo's invitation and walking through the pixel village to the couple"></a>
@@ -41,6 +41,7 @@ Also in progress: **Titah**, Indonesian regulations as an API and MCP server tha
 
 #### Open source
 
+- **[tarutha-quickstart](https://github.com/furyoktria/tarutha-quickstart)**. Three Python examples and a Claude setup for the Tarutha API. The first one runs without a key.
 - **[acroformer](https://github.com/furyoktria/acroformer)**. Turns flat PDF forms into fillable AcroForms. It finds boxes, checkboxes and dotted lines, and names each field from its printed label.
 - **[x-bookmarks-dumper](https://github.com/furyoktria/x-bookmarks-dumper)**. Exports all your X bookmarks to JSON from the browser console. No API key, no paid tier.
 
