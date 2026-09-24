@@ -15,7 +15,7 @@ Seven years in payments, fintech and small-business products. Before my current 
       <sub>Rust · Python · Next.js · Founding members</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://pixelandpromise.com"><img src="assets/pixel-and-promise.png" alt="Pixel and Promise invitation card: Maya and Theo, an invitation you can play"></a>
+      <a href="https://pixelandpromise.com"><img src="assets/pixel-and-promise.webp" alt="Pixel and Promise demo: opening Maya and Theo's invitation and walking through the pixel village to the couple"></a>
       <p><a href="https://pixelandpromise.com"><b>Pixel &amp; Promise</b></a><br>
       Wedding invitations your guests can play: a pixel-art game with RSVP, a wish wall and music. It started as our own wedding invitation and went from first commit to live store in a week.<br>
       <sub>Cloudflare Workers · 110 worlds · From $199</sub></p>
