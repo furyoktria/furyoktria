@@ -42,6 +42,7 @@ Also in progress: **Titah**, Indonesian regulations as an API and MCP server tha
 #### Open source
 
 - **[tarutha-quickstart](https://github.com/furyoktria/tarutha-quickstart)**. Three Python examples and a Claude setup for the Tarutha API. The first one runs without a key.
+- **[claude-skills](https://github.com/furyoktria/claude-skills)**. Three Claude skills: BPOM cosmetics notification for Indonesia, landing-page design that converts, and license-safe UI library sourcing.
 - **[acroformer](https://github.com/furyoktria/acroformer)**. Turns flat PDF forms into fillable AcroForms. It finds boxes, checkboxes and dotted lines, and names each field from its printed label.
 - **[x-bookmarks-dumper](https://github.com/furyoktria/x-bookmarks-dumper)**. Exports all your X bookmarks to JSON from the browser console. No API key, no paid tier.
 
